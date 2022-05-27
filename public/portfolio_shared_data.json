@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Karimov Behruz",
+      "titles": [ "Front-end Developer"],
       "social": [
         {
           "name": "github",
@@ -10,7 +10,7 @@
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/bekhruz1220_",
           "class": "fab fa-instagram"
         }
       ],
